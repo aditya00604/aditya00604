@@ -1,67 +1,117 @@
-<!-- ================= SVG Typing Welcome Banner ================= -->
+# README.md
+```markdown
+<!-- ================= Looping Background Video Banner ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=32&pause=2000&color=00DDFF&width=800&height=80&lines=👋+Welcome+to+Aditya+Kumar+Mishra+|+CS+'25" alt="Typing SVG"/>
+  <video autoplay loop muted playsinline width="800">
+    <source src="assets/video.mp4" type="video/mp4">
+    <!-- Fallback for browsers not supporting the video tag -->
+    Your browser does not support the video tag.
+  </video>
+  <p style="font-size:0.8em; margin-top:0.5em;">
+    <em>Background video:</em> <a href="https://www.vecteezy.com/free-videos/portfolio-background">Portfolio Background Stock Videos by Vecteezy</a>
+  </p>
 </p>
 
-<!-- ================= Glass-style About Card (SVG) ================= -->
+<!-- ================= Capsule Render Animated Header ================= -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/master/static/example.svg" 
-       alt="Glass Card" width="380" />
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100" alt="Capsule Header" />
 </p>
 
+<!-- ================= Social Icon Links ================= -->
 <p align="center">
+  <a href="https://github.com/aditya00604"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/aditya-mishra-692791240/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:aditya.1si21cs003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<!-- ================= Wave GIF & Intro ================= -->
+<p align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" alt="Wave GIF" />
   <h1>Hi, I’m Aditya Kumar Mishra</h1>
   <p><em>Fresher | Full-Stack & Edge-AI Developer crafting distributed systems, IoT & ML-driven solutions.</em></p>
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" alt="Wave GIF" />
 </p>
+
+---
+
+<!-- ================= YAML About Section ================= -->
+```yaml
+* name: Aditya Kumar Mishra
+* role: Fresher, Full-Stack & Edge-AI Developer
+* education: B.E. Computer Science, CS '25 (CGPA: 8.63/10)
+* interests: [distributed systems, IoT, machine learning, performance optimization]
+* contact: aditya.1si21cs003@gmail.com
+```
 
 ---
 
 ## 🛠️ Tech Stack & Tools
-
 <p align="center">
-  [![Java](https://img.shields.io/badge/Java-%23007ACC.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-  [![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
-  [![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-  [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  [![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
-  [![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-  [![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://palletsprojects.com/p/flask/)
-  [![Express.js](https://img.shields.io/badge/Express.js-%23404D59.svg?style=for-the-badge)](https://expressjs.com/)
-  [![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com/)
-  [![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com/)
-  [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org/)
-  [![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com/)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" />
 </p>
 
 ---
 
-## 📊 Stats & Visitors
+## 📊 GitHub Stats & Visitors
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya00604&layout=compact&theme=dark)](https://github.com/aditya00604)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya00604&layout=compact&theme=dark)](https://github.com/aditya00604)
+
 ![Visitor Count](https://profile-counter.glitch.me/aditya00604/count.svg)
 
 ---
 
+## 🎮 GitHub Contribution Snake
+
+![Snake animation](https://github.com/aditya00604/aditya00604/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 🔗 Connect with Me
-- GitHub: [@aditya00604](https://github.com/aditya00604)  
-- LinkedIn: [linkedin.com/in/aditya-mishra-692791240/](https://linkedin.com/in/aditya-mishra-692791240/)  
-- ✉️ Email: aditya.1si21cs003@gmail.com  
+- GitHub: [@aditya00604](https://github.com/aditya00604)
+- LinkedIn: [linkedin.com/in/aditya-mishra-692791240/](https://linkedin.com/in/aditya-mishra-692791240/)
+- Email: aditya.1si21cs003@gmail.com
 
 ---
 
-> **Pro Tips**  
-> • Use **SVG badges** instead of raw CSS for guaranteed rendering.  
-> • Leverage **readme-typing-svg** for animated headers and tickers.  
-> • Embed **animated GIFs** or **Lottie** animations to bring your profile to life.  
-> • Automate with **GitHub Actions**: update your stats/ticker SVG daily.  
-> • Showcase key skills with **shields.io** badges—clickable and clean.
+> **Attribution**  
+> Background video: <a href="https://www.vecteezy.com/free-videos/portfolio-background">Portfolio Background Stock Videos by Vecteezy</a>
+```
 
----
+# .github/workflows/main.yml
+```yaml
+name: Generate Contribution Snake & Stats
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
 
-### Next Steps
-- 🚀 **Custom Banner:** Use an image-to-SVG tool or Figma export as your top banner.  
-- 🤖 **Actions:** Set up a simple workflow to regenerate your typing SVG with the latest projects/stats.  
-- 🏆 **Trophy Case:** Add a [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) section for coding challenge highlights.
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
 
-This approach sidesteps GitHub’s CSS restrictions entirely, while still giving you a **dynamic, visually appealing** README. Let me know if you’d like a hand generating any of those SVG assets or wiring up the workflow!
+      - name: Generate Snake SVG
+        uses: Platane/snk@master
+        with:
+          github_user_name: aditya00604
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - name: Deploy to output branch
+        uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
