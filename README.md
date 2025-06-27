@@ -42,6 +42,5 @@
 
 
 - **GitHub Stats & Language Badges**  
-  ```markdown
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya00604&show_icons=true&theme=dark)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya00604&layout=compact&theme=dark)
