@@ -4,9 +4,7 @@
     <source src="assets/video.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
-  <p style="font-size:0.8em; margin-top:0.5em;">
-    <em>Background video:</em> <a href="https://www.vecteezy.com/free-videos/portfolio-background">Portfolio Background Stock Videos by Vecteezy</a>
-  </p>
+
 </p>
 
 <!-- ================= Capsule Render Animated Header ================= -->
