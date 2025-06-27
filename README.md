@@ -1,10 +1,7 @@
-# README.md
-```markdown
 <!-- ================= Looping Background Video Banner ================= -->
 <p align="center">
   <video autoplay loop muted playsinline width="800">
     <source src="assets/video.mp4" type="video/mp4">
-    <!-- Fallback for browsers not supporting the video tag -->
     Your browser does not support the video tag.
   </video>
   <p style="font-size:0.8em; margin-top:0.5em;">
@@ -33,18 +30,14 @@
 
 ---
 
-<!-- ================= YAML About Section ================= -->
-```yaml
-* name: Aditya Kumar Mishra
-* role: Fresher, Full-Stack & Edge-AI Developer
-* education: B.E. Computer Science, CS '25 (CGPA: 8.63/10)
-* interests:
-  - distributed systems
-  - IoT
-  - machine learning
-  - performance optimization
-* contact: aditya.1si21cs003@gmail.com
-```
+<!-- ================= About Section ================= -->
+<div align="center">
+  <p><strong>Name:</strong> Aditya Kumar Mishra</p>
+  <p><strong>Role:</strong> Fresher, Full-Stack & Edge-AI Developer</p>
+  <p><strong>Education:</strong> B.E. Computer Science, CS '25 (CGPA: 8.63/10)</p>
+  <p><strong>Interests:</strong> distributed systems, IoT, machine learning, performance optimization</p>
+  <p><strong>Contact:</strong> aditya.1si21cs003@gmail.com</p>
+</div>
 
 ---
 
@@ -88,5 +81,4 @@
 ---
 
 > **Attribution**  
-> Background video: <a href="https://www.vecteezy.com/free-videos/portfolio-background">Portfolio Background Stock Videos by Vecteezy</a>
-```
+> Background video: https://www.vecteezy.com/free-videos/portfolio-background
