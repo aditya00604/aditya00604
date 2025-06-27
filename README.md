@@ -1,93 +1,67 @@
-<!-- Animated SVG Header -->
+<!-- ================= SVG Typing Welcome Banner ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=32&pause=2000&color=00DDFF&width=700&height=70&lines=Welcome+to+Aditya+Kumar+Mishra+%7C+CS+'25" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=32&pause=2000&color=00DDFF&width=800&height=80&lines=👋+Welcome+to+Aditya+Kumar+Mishra+|+CS+'25" alt="Typing SVG"/>
 </p>
 
-<!-- Scrolling Welcome Ticker -->
-<div class="ticker-wrap">
-  <div class="ticker">
-    <div class="ticker__item">👋 Welcome to my GitHub Profile!</div>
-    <div class="ticker__item">🎓 CS ’25 Graduate</div>
-    <div class="ticker__item">🛠️ Full‑Stack & Edge‑AI Developer</div>
-    <div class="ticker__item">✨ Always Learning • Always Building</div>
-  </div>
-</div>
+<!-- ================= Glass-style About Card (SVG) ================= -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/master/static/example.svg" 
+       alt="Glass Card" width="380" />
+</p>
 
-<style>
-/* Scrolling Ticker */
-.ticker-wrap { width: 100%; overflow: hidden; background: #111; }
-.ticker { display: flex; animation: scroll 20s linear infinite; }
-.ticker__item { flex: none; padding: 0 2rem; color: #00DDFF; white-space: nowrap; }
-@keyframes scroll { 0% { transform: translateX(100%); } 100% { transform: translateX(-100%); } }
+<p align="center">
+  <h1>Hi, I’m Aditya Kumar Mishra</h1>
+  <p><em>Fresher | Full-Stack & Edge-AI Developer crafting distributed systems, IoT & ML-driven solutions.</em></p>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" alt="Wave GIF" />
+</p>
 
-/* Glassmorphic Card */
-.glass-card {
-  width: 90%; max-width: 380px; margin: 1.5rem auto;
-  padding: 1.2rem; background: rgba(255,255,255,0.08);
-  border-radius: 16px; backdrop-filter: blur(8px);
-  box-shadow: 0 6px 24px rgba(0,0,0,0.15);
-  transition: transform .3s, box-shadow .3s;
-}
-.glass-card:hover {
-  transform: translateY(-6px);
-  box-shadow: 0 12px 48px rgba(0,0,0,0.2);
-}
-
-/* Tech Icons Hover */
-.tech-icon { width: 40px; margin: 6px; filter: grayscale(100%); transition: filter .3s; }
-.tech-icon:hover { filter: none; }
-</style>
-
-<div class="glass-card">
-  <h3 align="center">👨‍💻 About Me</h3>
-  <p align="center">CS ’25 graduate passionate about scalable architectures, clean code, distributed systems, and edge‑AI.</p>
-</div>
+---
 
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" class="tech-icon" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" class="tech-icon" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" class="tech-icon" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" class="tech-icon" alt="JS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" class="tech-icon" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" class="tech-icon" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" class="tech-icon" alt="Flask"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" class="tech-icon" alt="Express"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" class="tech-icon" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" class="tech-icon" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" class="tech-icon" alt="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" class="tech-icon" alt="Docker"/>
+  [![Java](https://img.shields.io/badge/Java-%23007ACC.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+  [![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
+  [![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+  [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
+  [![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+  [![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://palletsprojects.com/p/flask/)
+  [![Express.js](https://img.shields.io/badge/Express.js-%23404D59.svg?style=for-the-badge)](https://expressjs.com/)
+  [![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com/)
+  [![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com/)
+  [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org/)
+  [![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com/)
 </p>
 
 ---
 
 ## 📊 Stats & Visitors
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya00604&layout=compact&theme=dark)]  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya00604&layout=compact&theme=dark)](https://github.com/aditya00604)  
 ![Visitor Count](https://profile-counter.glitch.me/aditya00604/count.svg)
 
 ---
 
 ## 🔗 Connect with Me
 - GitHub: [@aditya00604](https://github.com/aditya00604)  
-- LinkedIn: [linkedin.com/in/aditya‑mishra‑692791240/](https://linkedin.com/in/aditya-mishra-692791240/)  
+- LinkedIn: [linkedin.com/in/aditya-mishra-692791240/](https://linkedin.com/in/aditya-mishra-692791240/)  
 - ✉️ Email: aditya.1si21cs003@gmail.com  
 
 ---
 
-### 💎 Design Highlights
-- **SVG typing header** adds a dynamic personal touch :contentReference[oaicite:9]{index=9}  
-- **Ticker resembles a 'breaking news' banner** for activity emphasis :contentReference[oaicite:10]{index=10}  
-- **Glassmorphic cards** offer elegant content separation :contentReference[oaicite:11]{index=11}  
-- **Hover-reactive icons** improve interactivity and polish
+> **Pro Tips**  
+> • Use **SVG badges** instead of raw CSS for guaranteed rendering.  
+> • Leverage **readme-typing-svg** for animated headers and tickers.  
+> • Embed **animated GIFs** or **Lottie** animations to bring your profile to life.  
+> • Automate with **GitHub Actions**: update your stats/ticker SVG daily.  
+> • Showcase key skills with **shields.io** badges—clickable and clean.
 
 ---
 
-🎯 **Next Steps**  
-- Create a **custom banner/logo** to top off the visual identity  
-- Add GitHub Actions to **refresh stats or ticker content daily**  
-- Use SVG badge collections or a visit chart like **github-profile-trophy**
+### Next Steps
+- 🚀 **Custom Banner:** Use an image-to-SVG tool or Figma export as your top banner.  
+- 🤖 **Actions:** Set up a simple workflow to regenerate your typing SVG with the latest projects/stats.  
+- 🏆 **Trophy Case:** Add a [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) section for coding challenge highlights.
 
-Let me know if you'd like help generating custom banner assets or wiring in automated GitHub Actions—happy to assist!
-::contentReference[oaicite:12]{index=12}
+This approach sidesteps GitHub’s CSS restrictions entirely, while still giving you a **dynamic, visually appealing** README. Let me know if you’d like a hand generating any of those SVG assets or wiring up the workflow!
