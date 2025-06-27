@@ -21,7 +21,7 @@
 
 <!-- ================= Wave GIF & Introduction ================= -->
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" alt="Wave GIF" />
+ 
   <h1>Hi, I’m Aditya Kumar Mishra</h1>
   <p><em>Fresher | Full-Stack & Edge-AI Developer crafting distributed systems, IoT & ML-driven solutions.</em></p>
 </p>
