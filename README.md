@@ -50,7 +50,6 @@
 ## 📊 GitHub Stats & Language Summary
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya00604&layout=compact&theme=dark)](https://github.com/aditya00604)
 
-*(Stats cards appear only once the public service refreshes—switching themes or adding `&cache_seconds=3600` often helps if not visible right away.)*
 
 ---
 
@@ -61,7 +60,6 @@
 
 ---
 
-> “Design a README that’s **aesthetically pleasing** yet **functional**, reflecting your brand as a developer.” — Adapted from tips by Bootcamp’s Medium guide :contentReference[oaicite:2]{index=2}
 
 ---
 
@@ -72,7 +70,3 @@
 - Add your **GitHub stats & activity cards** near bottom  
 - Update regularly to keep your README fresh and relevant :contentReference[oaicite:3]{index=3}  
 
----
-
-Let me know if you’d like help adding a custom banner, live visitor counter, or automating stats—happy to assist!
-::contentReference[oaicite:4]{index=4}
