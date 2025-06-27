@@ -24,7 +24,7 @@
   <a href="mailto:aditya.1si21cs003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<!-- ================= Wave GIF & Intro ================= -->
+<!-- ================= Wave GIF & Introduction ================= -->
 <p align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" alt="Wave GIF" />
   <h1>Hi, I’m Aditya Kumar Mishra</h1>
@@ -38,7 +38,11 @@
 * name: Aditya Kumar Mishra
 * role: Fresher, Full-Stack & Edge-AI Developer
 * education: B.E. Computer Science, CS '25 (CGPA: 8.63/10)
-* interests: [distributed systems, IoT, machine learning, performance optimization]
+* interests:
+  - distributed systems
+  - IoT
+  - machine learning
+  - performance optimization
 * contact: aditya.1si21cs003@gmail.com
 ```
 
@@ -72,7 +76,7 @@
 
 ## 🎮 GitHub Contribution Snake
 
-![Snake animation](https://github.com/aditya00604/aditya00604/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](assets/github-contribution-grid-snake.svg)
 
 ---
 
@@ -86,32 +90,3 @@
 > **Attribution**  
 > Background video: <a href="https://www.vecteezy.com/free-videos/portfolio-background">Portfolio Background Stock Videos by Vecteezy</a>
 ```
-
-# .github/workflows/main.yml
-```yaml
-name: Generate Contribution Snake & Stats
-on:
-  schedule:
-    - cron: '0 */12 * * *'
-  workflow_dispatch:
-
-jobs:
-  generate-snake:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Repo
-        uses: actions/checkout@v3
-
-      - name: Generate Snake SVG
-        uses: Platane/snk@master
-        with:
-          github_user_name: aditya00604
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-      - name: Deploy to output branch
-        uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
