@@ -67,11 +67,7 @@
 
 ---
 
-## 🎮 GitHub Contribution Snake
 
-![Snake animation](assets/github-contribution-grid-snake.svg)
-
----
 
 ## 🔗 Connect with Me
 - GitHub: [@aditya00604](https://github.com/aditya00604)
@@ -80,5 +76,3 @@
 
 ---
 
-> **Attribution**  
-> Background video: https://www.vecteezy.com/free-videos/portfolio-background
