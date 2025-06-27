@@ -1,16 +1,50 @@
-## Hi there 👋
+<p align="center">
+  <h1>Hi, I’m Aditya Kumar Mishra 👋</h1>
+  <p>Full‑Stack & Edge‑AI Developer exploring distributed systems, IoT, and ML-driven solutions.</p>
+</p>
 
-<!--
-**aditya00604/aditya00604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- Final-year B.E. Computer Science student at **Siddaganga Institute of Technology** (CGPA: 8.47/10)
+- Passionate about building **scalable full-stack systems**, **performance optimization**, and **clean architecture**
+- Continuously learning edge computing, distributed systems, and AI model deployment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack & Tools
+
+| Category               | Technologies |
+|------------------------|--------------|
+| **Languages**          | Java · Python · C++ · JavaScript · SQL |
+| **Frameworks & APIs**  | React.js · Next.js · Flask · FastAPI · Express.js |
+| **Databases**          | MySQL · SQLite · MongoDB · Firebase |
+| **Distributed Systems**| REST APIs · MQTT · Socket Programming |
+| **Edge & ML**          | YOLOv11 · MobileNetV2 · XGBoost · TensorFlow |
+| **Dev Tools**          | Git · Docker · Postman · Linux · VS Code |
+
+---
+
+## 🌱 What I’m Exploring
+- Building **microservices backends** with efficient frontends
+- Deploying lightweight **AI/ML models on edge devices** (e.g., Raspberry Pi)
+- Contributing to **open-source edge-AI tooling**
+
+---
+
+## 🔗 Connect with Me
+- GitHub: [@aditya00604](https://github.com/aditya00604)  
+- LinkedIn: [linkedin.com/in/aditya-mishra-692791240/](https://linkedin.com/in/aditya-mishra-692791240/)  
+- 📫 Email: aditya.1si21cs003@gmail.com  
+
+---
+
+> "Keep it concise and scannable" — an essential principle for a compelling profile README :contentReference[oaicite:1]{index=1}
+
+---
+
+### Optional Enhancements
+- **GitHub Stats & Language Badges**  
+  ```markdown
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya00604&show_icons=true&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya00604&layout=compact)
