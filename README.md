@@ -39,12 +39,9 @@
 
 ---
 
-> "Keep it concise and scannable" — an essential principle for a compelling profile README :contentReference[oaicite:1]{index=1}
 
----
 
-### Optional Enhancements
 - **GitHub Stats & Language Badges**  
   ```markdown
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya00604&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya00604&layout=compact)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya00604&show_icons=true&theme=dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya00604&layout=compact&theme=dark)
