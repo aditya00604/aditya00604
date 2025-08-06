@@ -61,7 +61,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya00604&layout=compact&theme=dark)](https://github.com/aditya00604)
 
-![Visitor Count](https://profile-counter.glitch.me/aditya00604/count.svg)
+
 
 ---
 
